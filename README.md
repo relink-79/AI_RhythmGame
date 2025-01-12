@@ -20,4 +20,5 @@
 ### 구현 화면
 ![image](https://github.com/user-attachments/assets/77da3a9b-ed13-4edf-891b-72cd707fd430)  
 
-
+### 아쉬웠던점
+평생 python만 하다가 UI적으로 뭔가 구현하려니 너무 여러워서 CV2.imshow에다 했다는게 너무 아쉽고 조금만 더 배워서 앱으로 구현하고싶다.  
